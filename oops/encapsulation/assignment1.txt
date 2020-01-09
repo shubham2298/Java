@@ -1,0 +1,52 @@
+1. What is Encapsulation?
+    Encapsulation is a wrapping data and function in a single unit.In encapsulation variable of class
+    is hiding from the outside the world and access from only current class method.
+
+2.Why Encapsulation is required/useful in Java?
+    1.it secure your data.
+    2.it bind data and function in single unit.
+    3.it make flexible codecd 
+
+4.
+
+public class EncapTest {
+   private String name;
+   private String idNum;
+   private int age;
+
+   public int getAge() {
+      return age;
+   }
+
+   public String getName() {
+      return name;
+   }
+
+   public String getIdNum() {
+      return idNum;
+   }
+
+   public void setAge( int newAge) {
+      age = newAge;
+   }
+
+   public void setName(String newName) {
+      name = newName;
+   }
+
+   public void setIdNum( String newId) {
+      idNum = newId;
+   }
+}
+
+public class RunEncap {
+
+   public static void main(String args[]) {
+      EncapTest encap = new EncapTest();
+      encap.setName("James");
+      encap.setAge(20);
+      encap.setIdNum("12343ms");
+
+      System.out.print("Name : " + encap.getName() + " Age : " + encap.getAge());
+   }
+}

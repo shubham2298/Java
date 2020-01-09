@@ -1,0 +1,122 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindNumUniqueWords",
+            "request": "launch",
+            "mainClass": "FindNumUniqueWords"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReadFileExample",
+            "request": "launch",
+            "mainClass": "ReadFileExample"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-article",
+            "request": "launch",
+            "mainClass": "article"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ass2",
+            "request": "launch",
+            "mainClass": "ass2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-assignment2",
+            "request": "launch",
+            "mainClass": "assignment2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-assignment4",
+            "request": "launch",
+            "mainClass": "assignment4"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-assignment5",
+            "request": "launch",
+            "mainClass": "assignment5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-csv",
+            "request": "launch",
+            "mainClass": "csv"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-exception",
+            "request": "launch",
+            "mainClass": "exception"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-mainfile",
+            "request": "launch",
+            "mainClass": "mainfile"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pali",
+            "request": "launch",
+            "mainClass": "pali"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prime",
+            "request": "launch",
+            "mainClass": "prime"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ramdom",
+            "request": "launch",
+            "mainClass": "ramdom"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-rev10",
+            "request": "launch",
+            "mainClass": "rev10"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-revarticle",
+            "request": "launch",
+            "mainClass": "revarticle"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reverse1",
+            "request": "launch",
+            "mainClass": "reverse1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-rotation",
+            "request": "launch",
+            "mainClass": "rotation"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ude",
+            "request": "launch",
+            "mainClass": "ude"
+        }
+    ]
+}

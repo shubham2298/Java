@@ -1,0 +1,14 @@
+What is Inheritance?
+    1.Inheritance is a one of the feature of OOP.
+    2.Inheritance in java is a mechanism in which one objet acquires all properties and behaviors of 
+    parent object.
+    3.The parent class is a generalized class and sub class is as specific class.
+    4.derived class inherientence all the property and attribute in derived class.
+    5.Inheritance "is-a" kind of relationship.
+    6.main advantage is a reuse of code.
+
+Why Inheritance is required/useful in Java?
+   1. Inheritance in java is a mechanism in which one objet acquires all properties and behaviors of 
+    parent object.
+    2.It use reusability of code(same thing not writing at all)
+    
